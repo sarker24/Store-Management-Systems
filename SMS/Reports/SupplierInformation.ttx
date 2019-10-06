@@ -1,0 +1,9 @@
+SupplierID	Number		
+SupplierName	String	100	
+ContactName	String	150	
+Address		String	20	
+PhoneNo		String	20	
+FaxNo		String	50	
+City		String	50
+Country		String	50
+Email 		String	50

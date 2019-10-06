@@ -1,0 +1,7 @@
+ProductCatagory	String	50	
+ItemName	String	30	
+Remaining_QTY	Number		
+Total_QTY	Number		
+Total_Value	Number		
+Pcs_Value	Currency		
+Stock_Value	Currency		

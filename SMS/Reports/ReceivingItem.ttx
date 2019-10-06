@@ -1,0 +1,16 @@
+serialNo	Number		
+RDate		Date		
+SName		String	150	
+StoreName	String	50	
+Catagory	String	50	
+ItemName	String	100	
+Qty		Number		
+Rate		Number		
+Amount		Number		
+Rol		Number		
+ExpDate		Date		
+Posted		Boolean		
+Warranty	Boolean		
+Remarks		String	100	
+CPost		String	50	
+Unit		String	20	

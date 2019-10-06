@@ -1,0 +1,10 @@
+StoreName	String	100	
+Catagory	String	100	
+IteamName	String	100	
+BF	Currency		
+Rate	Currency		
+Receive	Currency		
+R_Rate	Currency		
+Sales	Currency		
+S_Rate	Currency		
+C_Amount	Currency		

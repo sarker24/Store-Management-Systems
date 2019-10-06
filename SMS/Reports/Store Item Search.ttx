@@ -1,0 +1,5 @@
+StoreName	String	100	
+Catagory	String	100	
+ItemName	String	100	
+ROL	Number		
+Unit	String	10	

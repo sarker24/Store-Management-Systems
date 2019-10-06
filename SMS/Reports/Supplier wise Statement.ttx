@@ -1,0 +1,9 @@
+SerialNo	Number		
+RDate 		Date
+SName		String	100
+SBill		String	100	
+TotalBill	Currency		
+Paid		Currency
+Due 		Currency
+Posted		String	10
+UName		String	15

@@ -1,0 +1,9 @@
+Store Name	String	20	
+Catagory Name	String	50	
+Item Name	String	50	
+Opening Stock	Currency		
+Item Receive	Currency		
+Item Issue	Currency		
+Current Stock	Currency		
+Unit Price	Currency		
+Closing Balance	Currency		

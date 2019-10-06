@@ -1,0 +1,6 @@
+Line 9: Property Icon in frmPaymentMode had an invalid file reference.
+Line 22: Property Picture in cmdNew had an invalid file reference.
+Line 33: Property Picture in cmdDelete had an invalid file reference.
+Line 44: Property Picture in cmdFind had an invalid file reference.
+Line 55: Property Picture in cmdEdit had an invalid file reference.
+Line 67: Property Picture in cmdQuit had an invalid file reference.
